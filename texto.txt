@@ -1,0 +1,3 @@
+Arquivo de notepad
+texto criado via comando
+Arquivo que está sendo modificado
