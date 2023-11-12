@@ -7,3 +7,5 @@ coupling Test 55s
 S2 60s
 SC 25s
 
+cycle time P2A11
+Coupling teste - 60s
