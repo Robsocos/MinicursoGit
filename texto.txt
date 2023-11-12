@@ -2,5 +2,8 @@ Arquivo de notepad
 texto criado via comando
 Arquivo que está sendo modificado
 Arquivo que modificado, planejamento das ações
-
+cycle time Q92X
+coupling Test 55s
+S2 60s
+SC 25s
 
